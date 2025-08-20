@@ -41,15 +41,6 @@ dart run easy_localization:generate -S assets/translations -f json -O lib/src/lo
 dart run easy_localization:generate -S assets/translations -f keys -O lib/src/localization/generated -o locale_keys.g.dart
 ```
 
-### Deploy
-
-<a id="deploy" style="text-decoration:none">**Automatically deploy your portfolio to GitHub Pages with GitHub Actions:**</a>
-
-```bash
-git commit --allow-empty -m "trigger deploy" # if you have nothing to commit
-git push
-```
-
 
 ## Personalization 🛠️
 
