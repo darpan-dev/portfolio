@@ -34,7 +34,7 @@ dart run build_runner build -d
 
 > For additional information, refer to the [build_runner](https://pub.dev/packages/build_runner) documentation
 
-<a id="generate-localization-files" style="text-decoration:none">**5. Generate localization files:**</a>
+<a id="generate-localization-files" style="text-decoration:none">**3. Generate localization files:**</a>
 
 ```bash
 dart run easy_localization:generate -S assets/translations -f json -O lib/src/localization/generated -o locale_json.g.dart
