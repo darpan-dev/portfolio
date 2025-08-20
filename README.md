@@ -50,14 +50,6 @@ git commit --allow-empty -m "trigger deploy" # if you have nothing to commit
 git push
 ```
 
-Your deployment will be available in few minutes at this URL: `https://<YOUR_USERNAME>.github.io/portfolio`
-Whenever you want to redeploy your portfolio, simply push your changes as you did.
-
-Additionally for your first deployment, you'll need to select the proper GitHub Pages branch.
-
-| Go to the Settings tab and then click Pages. The branch is currently set to _None_. | Set the branch to _gh-pages_ and save to redeploy.  |
-| ----------------------------------------------------------------------------------- | --------------------------------------------------- |
-| ![](./docs/images/github-pages-branch-none.png)                                     | ![](./docs/images/github-pages-branch-gh-pages.png) |
 
 ## Personalization 🛠️
 
