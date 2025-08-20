@@ -25,23 +25,13 @@ Flutter Portfolio – by [@Darpan](https://github.com/darpanthummar28)
 
 If you haven't already, install [Flutter](https://docs.flutter.dev/get-started/install)
 
-**1. [Fork](https://github.com/AladdineDev/portfolio/fork) and [clone](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository) this repository**
-
-**2. Enable your workflows**
-
-| Go to the Actions tab and enable your workflows.       |
-| ------------------------------------------------------ |
-| ![](./docs/images/github-actions-enable-workflows.png) |
-
-Now you're all set to [deploy](#deploy) your portfolio online. To build it locally and make customizations, follow the steps below.
-
-**3. Install dependencies:**
+**1. Install dependencies:**
 
 ```bash
 flutter pub get
 ```
 
-**4. Run the code generator:**
+**2. Run the code generator:**
 
 ```bash
 dart run build_runner build -d
@@ -112,9 +102,3 @@ dart run flutter_native_splash:create
 
 </details>
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/AladdineDev/portfolio/blob/main/LICENSE.md) file for details
-=======
-# portfolio
->>>>>>> 565b4079a6a1c509ea46fd767b6619e773266871
