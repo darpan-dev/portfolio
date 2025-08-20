@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <img src="assets/images/logo.png" align="right" width="60px"/>
 
 # Portfolio 💙 [![Stars](https://img.shields.io/github/stars/AladdineDev/portfolio?style=flat-square)](https://github.com/AladdineDev/portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/AladdineDev/portfolio?style=flat-square)](https://github.com/AladdineDev/portfolio/forks?include=active&page=1&period=&sort_by=stargazer_counts)
@@ -114,3 +115,6 @@ dart run flutter_native_splash:create
 ## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/AladdineDev/portfolio/blob/main/LICENSE.md) file for details
+=======
+# portfolio
+>>>>>>> 565b4079a6a1c509ea46fd767b6619e773266871
