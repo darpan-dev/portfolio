@@ -1,0 +1,275 @@
+{
+    "name": "Darpan Thummar",
+    "description": "Mobile App Developer",
+    "subDescription": "Flutter Enthusiast",
+    "contacts": [
+        {
+            "tooltip": "Github",
+            "url": "https://github.com/darpanthummar28",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "Twitter",
+            "url": "https://x.com/darpanthummar?s=21",
+            "icon": {
+                "codePoint": "0xf0ea",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "LinkedIn",
+            "url": "https://www.linkedin.com/in/darpan-thummar-16b041207",
+            "icon": {
+                "codePoint": "0xeffb",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "darpanthummar00@gmail.com",
+            "url": "mailto:darpanthummar00@gmail.com",
+            "icon": {
+                "codePoint": "0xeaad",
+                "fontFamily": "FontAwesome"
+            }
+        },
+        {
+            "tooltip": "+91 95101 03597",
+            "url": "tel:+919510103597",
+            "icon": {
+                "codePoint": "0xecbb",
+                "fontFamily": "FontAwesome"
+            }
+        }
+    ],
+    "resumes": [
+        {
+            "languageCode": "en",
+            "url": "https://drive.google.com/file/d/1ZOUMlluVZC5srMPrwXJvHWKunBa7ZnYN/view?usp=drive_link"
+        }
+    ],
+    "aboutDescription": "I'm a mobile app developer passionate about turning ideas into user-centric applications.\nWith 3+ years of experience working with Flutter, I've built and shipped apps across diverse fields — from show quality and field operations to food tech and wholesale.\nMy interests also include embedded systems, cybersecurity, and game design, where I enjoy exploring the creative intersections between these domains.\nI'm driven by building meaningful products and contributing to innovative, challenging projects.",
+    "experiences": [
+        {
+            "role": "Mobile App Developer",
+            "company": "Silver Touch Technology",
+            "description": "Collaborated with product and functional leads to develop Flutter applications using MVC and MVVM architectures, streamlining workflows and improving overall efficiency by 25%.",
+            "isPresent": true,
+            "startYear": 2023,
+            "endYear": 2025,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "GraphQL",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/graphql.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://www.silvertouch.com/",
+                    "display": "silvertouch"
+                },
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.sttl.wms&pcampaignid=web_share",
+                    "display": "Silver WMS"
+                },
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.sttl.silverhrms&pcampaignid=web_share",
+                    "display": "Silver HRMS"
+                }
+            ]
+        },
+        {
+            "role": "Mobile App Developer",
+            "company": "Indylogix Solutions",
+            "description": "I managed project timelines, successfully reducing delivery times by 20%. I built custom UI components and implemented complex state management using frameworks like Provider, Bloc, and GetX. Additionally, I optimized app performance by reducing loading times and enhancing overall UI responsiveness.",
+            "isPresent": false,
+            "startYear": 2021,
+            "startMonth": 12,
+            "endYear": 2022,
+            "endMonth": 1,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Hive",
+                    "icon": {
+                        "assetName": "assets/icons/other/bootstrap.svg"
+                    }
+                },
+                {
+                    "name": "SQLite",
+                    "icon": {
+                        "codePoint": "0xe944",
+                        "fontFamily": "OctIcons"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://indylogix.com/",
+                    "display": "Indylogix Solutions"
+                }
+            ]
+        },
+        {
+            "role": "Mobile App Developer",
+            "company": "Flexion Infotech",
+            "description": "I integrated RESTful APIs and Firebase services to enable real-time features within applications. I also developed and maintained multiple cross-platform mobile apps using Flutter, ensuring high performance, smooth functionality, and an engaging user experience.",
+            "startYear": 2021,
+            "startMonth": 7,
+            "endYear": 2021,
+            "endMonth": 12,
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Firebase",
+                    "icon": {
+                        "assetName": "assets/icons/other/firebase.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://flexioninfotech.com/",
+                    "display": "Flexion Infotech"
+                }
+            ]
+        }
+    ],
+    "present": "Present",
+    "projects": [
+        {
+            "name": "Silver WMS",
+            "description": "Silver WMS Addon is a mobile-first warehouse management solution that streamlines inventory, order fulfillment, and production with real-time tracking and automation. It enhances efficiency through advanced analytics, seamless integration, and smart bin/batch/serial management.",
+            "url": "https://play.google.com/store/apps/details?id=com.sttl.wms&pli=1",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/portfolio.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                }
+            ],
+            "links": [
+                {
+                    "url": "https://play.google.com/store/apps/details?id=com.sttl.wms&pli=1",
+                    "display": "Silver WMS"
+                }
+            ]
+        },
+        {
+            "name": "Bharat eMart",
+            "description": "Bharatemart is a trader-centric eCommerce platform built Of the Trader, By the Trader, and For the Trader, enabling full supply chain digitization from brand to consumer. In collaboration with CAIT, it empowers 7 crore+ traders with low-cost digital adoption, business setup support, analytics, integrations, and extensive growth opportunities.",
+            "url": "https://play.google.com/store/apps/details?id=com.bharatemart&hl=en_IN",
+            "icon": {
+                "codePoint": "0xefb7",
+                "fontFamily": "FontAwesome",
+                "color": "0xffffffff"
+            },
+            "screenshotPath": "assets/images/learnflow-backoffice.png",
+            "technologies": [
+                {
+                    "name": "Flutter",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/flutter.svg"
+                    }
+                },
+                {
+                    "name": "Dart",
+                    "icon": {
+                        "assetName": "assets/icons/other/dart.svg"
+                    }
+                },
+                {
+                    "name": "Postgresql",
+                    "icon": {
+                        "assetName": "assets/icons/software-development/postgresql.svg"
+                    }
+                }
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "name": "English",
+            "nativeName": "English",
+            "icon": {
+                "assetName": "assets/icons/flags/united-states-of-america.svg"
+            }
+        },
+        {
+            "code": "fr",
+            "name": "French",
+            "nativeName": "Français",
+            "icon": {
+                "assetName": "assets/icons/flags/france.svg"
+            }
+        }
+    ],
+    "portfolio": "Portfolio",
+    "homeSectionTitle": "Home",
+    "aboutSectionTitle": "About",
+    "aboutSectionTitleAlt": "About Me",
+    "experienceSectionTitle": "Experience",
+    "projectsSectionTitle": "Projects",
+    "resume": "Resume",
+    "downloadResume": "Download resume",
+    "openUrlError": "Could not open the url",
+    "unknownLanguageError": "Language unknown"
+}
