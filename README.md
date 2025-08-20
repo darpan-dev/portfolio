@@ -1,16 +1,11 @@
-<<<<<<< HEAD
 <img src="assets/images/logo.png" align="right" width="60px"/>
 
-# Portfolio 💙 [![Stars](https://img.shields.io/github/stars/AladdineDev/portfolio?style=flat-square)](https://github.com/AladdineDev/portfolio/stargazers) [![Forks](https://img.shields.io/github/forks/AladdineDev/portfolio?style=flat-square)](https://github.com/AladdineDev/portfolio/forks?include=active&page=1&period=&sort_by=stargazer_counts)
+# Portfolio 💙
 
 Flutter Portfolio – by [@Darpan](https://github.com/darpanthummar28)
 
 [![Flutter 3](https://img.shields.io/badge/Flutter-3.32-02569b.svg?style=flat-square&logo=flutter&logoColor=13b9fd)](https://flutter.dev/)
 [![Dart 3](https://img.shields.io/badge/Dart-3.8-0175c2.svg?style=flat-square&logo=dart&logoColor=13b9fd)](https://dart.dev/)
-
-## [Live Preview](https://aladdine.dev) 👀
-
-<img src="docs/images/mockups-1.png" width="70%"></img> <img src="docs/images/mockups-2.png" width="25%"></img>
 
 ## Features ✨
 
